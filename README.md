@@ -49,4 +49,4 @@ Pel model que utilitza informació dels moviments, hem fet servir els primers 35
 - Inés Gómez Carmona
 
 Repositori GitHub:
-https://github.com/NIU1706167/CasKaggle-Chess
+https://github.com/naroasarria/winner-chess-games
